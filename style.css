@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(39, 39, 39);
+    color: rgb(238, 238, 238);
+}
+
+.container{
+    background: rgb(83, 83, 83);
+    border: deepskyblue 1px solid;
+    border-radius: 10px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+h3{
+    color: deepskyblue;
+}
+
+h1{
+    color: limegreen;
+}
